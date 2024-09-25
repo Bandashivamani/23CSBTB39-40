@@ -11,3 +11,4 @@
 10.https://colab.research.google.com/drive/1qVVuWzHd2hLn6Z8iX7uRyXEWXScRnch6?hl=en
 11.https://github.com/Bandashivamani/23CSBTB39-40/blob/main/Ass3_all_parts.ipynb
 12.https://github.com/Bandashivamani/23CSBTB39-40/blob/main/Ass_5_all_.ipynb
+13.https://github.com/Bandashivamani/23CSBTB39-40/blob/main/Ass6_allparts.ipynb
